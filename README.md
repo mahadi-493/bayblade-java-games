@@ -2,7 +2,7 @@ Bayblade Java Games
 
 Project Overview
 Bayblade Java Games is a Java-based game project developed using Object-Oriented Programming (OOP) principles.<br>
-This project was created as part of an Advanced OOP / Java Laboratory course.<br>
+This project was created as part of an Advanced OOP Laboratory course.<br>
 
 The main goal of this project is to demonstrate clean Java code, proper class design, and basic game logic.<br>
 
