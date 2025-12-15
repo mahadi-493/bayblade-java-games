@@ -1,95 +1,85 @@
 Bayblade Java Games
 
 Project Overview
-Bayblade Java Games is a Java-based game project developed using Object-Oriented Programming (OOP) principles.
-This project was created as part of an Advanced OOP / Java Laboratory course.
+Bayblade Java Games is a Java-based game project developed using Object-Oriented Programming (OOP) principles.<br>
+This project was created as part of an Advanced OOP / Java Laboratory course.<br>
 
-The main goal of this project is to demonstrate clean Java code, proper class design, and basic game logic.
-
---------------------------------------------------
-
-Concepts Used
-- Object-Oriented Programming (OOP)
-  - Encapsulation
-  - Inheritance
-  - Polymorphism
-  - Abstraction
-- Java Classes and Objects
-- Game logic implementation
-- Modular project structure
+The main goal of this project is to demonstrate clean Java code, proper class design, and basic game logic.<br>
 
 --------------------------------------------------
 
-Features
-- Java-based game logic
-- Well-structured and readable code
-- Beginner-friendly implementation
-- Easy to extend and modify
-- Organized folder structure
+Concepts Used<br>
+- Object-Oriented Programming (OOP)<br>
+  - Encapsulation<br>
+  - Inheritance<br>
+  - Polymorphism<br>
+  - Abstraction<br>
+- Java Classes and Objects<br>
+- Game logic implementation<br>
+- Modular project structure<br>
 
 --------------------------------------------------
 
-Project Structure
-
-bayblade-java-games/
-|
-|-- src/
-|   |-- game/
-|   |-- player/
-|   |-- arena/
-|   |-- utils/
-|
-|-- assets/
-|-- README.md
-|-- .gitignore
+Features<br>
+- Java-based game logic<br>
+- Well-structured and readable code<br>
+- Beginner-friendly implementation<br>
+- Easy to extend and modify<br>
+- Organized folder structure<br>
 
 --------------------------------------------------
 
-How to Run the Project
+Project Structure<br>
 
-Prerequisites
-- Java JDK 8 or higher
-- Any Java IDE (IntelliJ IDEA, Eclipse, NetBeans) or Command Line
-
-Run Using Terminal
-
-javac src/*.java
-java Main
-
-Run Using IDE
-1. Open the project in your IDE
-2. Find the Main class
-3. Click Run
+bayblade-java-games/<br>
+|<br>
+|-- src/<br>
+|   |-- game/<br>
+|   |-- player/<br>
+|   |-- arena/<br>
+|   |-- utils/<br>
+|<br>
+|-- assets/<br>
+|-- README.md<br>
+|-- .gitignore<br>
 
 --------------------------------------------------
 
-Git Commands Used
+How to Run the Project<br>
 
-git init
-git add .
-git commit -m "Initial commit"
-git branch -M main
-git push -u origin main
+Prerequisites<br>
+- Java JDK 8 or higher<br>
+- Any Java IDE (IntelliJ IDEA, Eclipse, NetBeans) or Command Line<br>
 
---------------------------------------------------
+Run Using Terminal<br>
 
-Future Improvements
-- Add graphical user interface (JavaFX or Swing)
-- Improve game mechanics
-- Add sound effects
-- Implement scoring system
-- Add multiplayer support
+javac src/*.java<br>
+java Main<br>
 
---------------------------------------------------
-
-Author
-Mahadi Hasan
-CSE Student
-United International University
-GitHub: https://github.com/mahadi-493
+Run Using IDE<br>
+1. Open the project in your IDE<br>
+2. Find the Main class<br>
+3. Click Run<br>
 
 --------------------------------------------------
 
-Acknowledgement
+Git Commands Used<br>
+
+git init<br>
+git add .<br>
+git commit -m "Initial commit"<br>
+git branch -M main<br>
+git push -u origin main<br>
+
+--------------------------------------------------
+
+Future Improvements<br>
+- Add graphical user interface (JavaFX or Swing)<br>
+- Improve game mechanics<br>
+- Add sound effects<br>
+- Implement scoring system<br>
+- Add multiplayer support<br>
+
+Acknowledgement<br>
 This project was developed for academic and learning purposes to practice Java and OOP concepts.
 
